@@ -1,3 +1,7 @@
+    .body{
+        background-color: antiquewhite;
+    }
+
 ul,
 ol {
     margin-top: 0;
@@ -39,61 +43,62 @@ img {
    height: 1300px;
 }
 
-
+.zection{
+    margin-bottom: 60px;
+}
 .main-conteiner{
      
     width: 1200px;
-   
   padding-right: 217px;
     background-color: rgb(198, 194, 179);
     padding-top: 102px;
 padding-left: 88px;
 
 }
-.section-title__third{
-    margin-bottom: 19px;
-}
+
 
   .about-me__title{
-    margin-bottom: 21px;
+    margin-bottom: 60px;
     font-family: 'Montserrat';
         font-weight: 700;
-        font-size: 45px;
+        font-size: 50px;
         line-height: 55px;
   }
   .section-title__second{
 font-family: 'Montserrat';
     font-weight: 700;
-    font-size: 22px;
+    font-size: 28px;
     line-height: 27px;
 
-    margin-bottom: 12px;
+    margin-bottom:40px;
   }
 .section-title__third{
   margin-bottom: 10px;
-font-size: 16px;
+font-size: 20px;
     line-height: 20px;
 }
 
 .section__text{
     margin-bottom: 16px;
-font-size: 14px;
+font-size: 18px;
     line-height: 24px;
 }
 
 .about-me__text{
-font-size: 14px;
+font-size: 20px;
     line-height: 24px;
     margin-bottom: 40px;
 }
 
 .section-progect__item{
-font-size: 14px;
+margin-bottom: 20px;
     line-height: 24px;
 }
 
 .section-progect__menu{
     padding-bottom: 40px;
+    font-size: 20px;
+    line-height: 1,3;
 }
 /*============ aside=========*/
 
@@ -102,7 +107,7 @@ font-size: 14px;
     width:370px;
     padding-top: 40px;
     color: white;
-height: 1300px;
+
 
 background-color: rgb(104, 88, 66);
 }
@@ -119,6 +124,13 @@ background-color: rgb(104, 88, 66);
     height: 354px;
 }
 .contacts{
+    
     padding-bottom: 47px;
 }
 
+a{
+    color: white;
+}
+.section-progect__link{
+    color: rgb(70, 35, 5);
+}
