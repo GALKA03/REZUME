@@ -36,12 +36,14 @@ img {
     display: flex;
     flex-direction: row-reverse;
     padding: 40px;
+   height: 1300px;
 }
 
 
 .main-conteiner{
+     
     width: 1200px;
-    height: 100%;
+   
   padding-right: 217px;
     background-color: rgb(198, 194, 179);
     padding-top: 102px;
@@ -98,10 +100,9 @@ font-size: 14px;
 
 .aside-conteiner{
     width:370px;
-    height: 100%;
     padding-top: 40px;
     color: white;
-
+height: 1300px;
 
 background-color: rgb(104, 88, 66);
 }
